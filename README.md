@@ -80,3 +80,7 @@ Here are the steps to get started:
 1. Fork the Repository
 2. Create a new branch for your feature/fix
 3. After submitting your changes, open a new pull request.
+
+## License 📜
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
